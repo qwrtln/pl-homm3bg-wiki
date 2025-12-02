@@ -1,0 +1,4 @@
+# :attack: Wartość Ataku
+
+
+## Uwagi

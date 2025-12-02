@@ -1,0 +1,21 @@
+# Pole do Oflagowania
+
+
+## List of Flaggable Fields
+
+- [Dragon Utopia](../fields/dragon_utopia.md)
+- [Mine](../fields/mine.md)
+- [Obelisk](../fields/obelisk.md)
+- [Random Town](../fields/random_town.md)
+- [Settlement](../fields/settlement.md)
+- [Star Axis](../fields/star_axis.md)
+- [Town](../fields/town.md)
+
+
+## Uwagi
+
+
+## Zobacz też
+
+- [Pole Jednorazowe](visitable_field.md)
+- [Pole Wielorazowe](revisitable_field.md)
