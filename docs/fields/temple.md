@@ -1,0 +1,19 @@
+# Świątynia
+
+<figure markdown="span">
+
+![Temple Map Location](../assets/locations-temple.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
+___
+<p style="text-align: center;" markdown>Gain [:morale_positive:](../keywords/positive_morale.md) token.</p>
+___
+
+
+## Zobacz też
+
+- [Lista Pól](index.md)
+- [Lista Kafelków](../tiles/index.md)

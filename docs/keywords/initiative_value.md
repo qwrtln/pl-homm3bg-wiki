@@ -1,0 +1,5 @@
+# :initiative: Wartość Inicjatywy
+
+
+## Uwagi
+

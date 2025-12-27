@@ -1,0 +1,36 @@
+# Magiczna Strzała
+
+![Magic Arrow](../assets/spells-magic_arrow.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>Basic Spell</p>
+___
+<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+___
+
+
+## Uwagi
+
+- Magic Arrow is considered a basic spell, despite having a magic symbol in each corner.
+- Magic Arrow can benefit from spell power bonus to any school of magic, but it can only be affected by a single school of magic at a time.
+- [^1] If a unit ignores a specific school of magic (it's immune to spells of that school of magic), it can *not* ignore the Magic Arrow.
+
+
+## Pochodzi z
+
+- [Pudełko Podstawowe](../content/core_game.md)
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Inferno Expansion](../content/inferno_expansion.md)
+
+
+## Zobacz też
+
+- [Szkoła Powietrza](school_of_air_magic.md)
+- [Szkoła Ziemi](school_of_earth_magic.md)
+- [Szkoła Ognia](school_of_fire_magic.md)
+- [Szkoła Wody](school_of_water_magic.md)
+- [List of Spells](index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

@@ -1,0 +1,43 @@
+# Demony
+
+=== "Few"
+
+    <figure markdown="span">
+        ![Few Demons](../assets/units-inferno-silver-demons-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Demons](../assets/units-inferno-silver-demons-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Demons](../assets/units-neutral-silver-demons.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| :attack: | 3 | 3 | 3 |
+| :defense: | 2 | 2 | 0 |
+| :health_points: | 4 | **5** | 8 |
+| :initiative: | 5 | **6** | 6 |
+| Cost | 6 :gold: | 8 :gold: | 13 :gold: |
+| Abilities | - | - | - |
+
+
+## Pochodzi z
+
+- [Inferno Expansion](../content/inferno_expansion.md)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)
