@@ -1,0 +1,26 @@
+# Wskrzeszenie
+
+![Resurrection](../assets/spells-resurrection.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Expert Earth Spell](index.md#school-of-earth-magic)</p>
+___
+<p style="text-align: center;" markdown>:instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:power: 0 ➣ \*:bronze:<br>:power: 2 ➣ \*:bronze: or :silver:<br>:power: 4 ➣ \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+___
+
+
+## Uwagi
+
+- Only damage from an attack can be nullified. If the health points are reduced by other means of damage (such as abilities, spells, specialties, etc.), Resurrection cannot be played.
+- If damage from an attack is nullified, the resurrected unit will not retaliate, even if it has not performed a retaliation this round.
+
+
+## Pochodzi z
+
+- [Pudełko Podstawowe](../content/core_game.md)
+
+
+## Zobacz też
+
+- [Szkoła Ziemi](index.md#school-of-earth-magic)
+- [List of Spells](index.md)

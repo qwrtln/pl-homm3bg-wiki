@@ -1,0 +1,61 @@
+# Zombie
+
+=== "Garstka"
+
+    <figure markdown="span">
+        ![Few Zombies](../assets/units-necropolis-bronze-zombies-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Grupa"
+
+    <figure markdown="span">
+        ![Pack of Zombies](../assets/units-necropolis-bronze-zombies-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutralne"
+
+    <figure markdown="span">
+        ![Neutral Zombies](../assets/units-neutral-bronze-zombies.webp){ width="340" align=right }
+    </figure>
+
+=== "Crypt"
+
+    <figure markdown="span">
+        ![Crypt Zombies](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral | Crypt |
+| :--- | :---: | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - |
+| Tier | :bronze: | :bronze: | :bronze: | - |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 2 | 2 | 2 | 1 |
+| :defense: | 1 | 1 | 0 | 0 |
+| :health_points: | 3 | 3 | 4 | 2 |
+| :initiative: | 3 | **4** | 3 | 3 |
+| Cost | 3 :gold: | 4 :gold: | 5 :gold: | - |
+| Abilities | :unit_passive: If the attacker resolves a "+1" on [Attack die](../keywords/dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a +1" on [Attack die](../keywords/dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](../keywords/dice.md#attack-die), gain +1 :defense: | :unit_passive: If the attacker resolves a "+1" on [Attack die](../keywords/dice.md#attack-die) against this unit, gain +1 :defense:. |
+
+
+## Bohaterowie ze Specjalnością
+
+- [:magic: Sandro](../heroes/sandro.md#specialty)
+
+
+## Uwagi
+
+- The ability is triggered when a regular attack is performed against the Zombies, as well as a retaliation attack.
+
+
+## Pochodzi z
+
+- [Pudełko Podstawowe](../content/core_game.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Crypt)
+
+
+## Zobacz też
+
+- [Crypt (Creature Bank)](../fields/crypt_creature_bank.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

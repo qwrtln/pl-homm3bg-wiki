@@ -1,0 +1,54 @@
+# Hydry
+
+=== "Garstka"
+
+    <figure markdown="span">
+        ![Few Hydras](../assets/units-fortress-golden-hydras-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Grupa"
+
+    <figure markdown="span">
+        ![Pack of Hydras](../assets/units-fortress-golden-hydras-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutralne"
+
+    <figure markdown="span">
+        ![Neutral Hydras](../assets/units-neutral-azure-hydras.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :azure: |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 6 | **7** | 7 |
+| :defense: | 3 | 3 | 3 |
+| :health_points: | 8 | **10** | 8 |
+| :initiative: | 5 | **7** | 5 |
+| Cost | 20 :gold:<br>1 :valuables: | 28 :gold:<br>2 :valuables: | 40 :gold: |
+| Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
+
+
+## Uwagi
+
+- **Pack and Neutral** - The attacks take place after each other and each of those attacks has a separate Attack Die roll. The player decides the order of attacks.
+- **Pack and Neutral** - Neither of the attacks triggers a Retaliation Attack. The :unit_attack: symbol affects both target of the Hydras.
+- [^1] **Pack and Neutral** - Hydras can not attack a unit and a Wall at the same time, only one or the other.
+
+
+## Pochodzi z
+
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md) (Neutral)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.
