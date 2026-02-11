@@ -1,0 +1,54 @@
+nav:
+  - "index.md"
+  - Adventure:
+     - "adventure/*.md"
+  - AI:
+     - "ai/*.md"
+  - Artefakty:
+     - "artifacts/*.md"
+  - Astrologowie ogłaszają:
+     - "astrologers_proclaim/*.md"
+  - Bohaterowie:
+     - "heroes/*.md"
+  - Handel: "trading.md"
+  - Jednostki:
+     - "units/*.md"
+  - Kafelki:
+     - "tiles/*.md"
+  - Legenda: "legend.md"
+  - Machiny Wojenne:
+     - "war_machines/*.md"
+  - Miasta:
+     - "towns/*.md"
+  - Pola:
+     - "fields/*.md"
+  - Poziom Trudności: "difficulties.md"
+  - Scenariusze:
+     - "scenarios/*.md"
+  - Statystyki:
+     - "statistics/*.md"
+  - Słowa kluczowe:
+     - "keywords/*.md"
+     - Efekt Długotrwały: "keywords/permanent_effect.md"
+     - Inna Akcja: "keywords/alternative_action.md"
+     - Kości: "keywords/dice.md"
+     - Morale: "keywords/morale.md"
+     - Paraliż: "keywords/paralysis.md"
+     - Przeszkoda: "keywords/obstacle.md"
+     - Przeszukaj: "keywords/search.md"
+     - Przyzywanie: "keywords/summon.md"
+     - Siedlisko: "keywords/dwelling.md"
+     - Usuń: "keywords/remove.md"
+     - Walka: "keywords/combat.md"
+     - Wzmocnienie: "keywords/empower.md"
+     - Wzmocnij: "keywords/reinforce.md"
+     - Zrekrutuj: "keywords/recruit.md"
+  - Tabela trudności: "difficulties.md"
+  - Wydarzenia:
+     - "events/*.md"
+  - Zaklęcia:
+     - "spells/*.md"
+  - Zawartość:
+     - "content/*.md"
+  - Zdolności:
+     - "abilities/*.md"

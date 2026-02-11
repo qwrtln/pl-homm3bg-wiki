@@ -1,0 +1,28 @@
+# #F5
+
+___
+[Far Tile](../tiles/index.md#far-tiles)
+___
+Subterranean
+___
+
+
+## Pola
+
+- [Blocked Field](../fields/blocked_field.md)
+- [Black Market](../fields/black_market.md)
+- [Ⅲ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
+- [:treasure:](../fields/treasure_symbol.md)
+- [Ⅱ](../difficulties.md) [Magic Spring](../fields/magic_spring.md)
+- [+3 :gold: Water Wheel](../fields/water_wheel.md)
+- [Mystical Garden](../fields/mystical_garden.md)
+
+
+## Pochodzi z
+
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
+
+
+## Zobacz też
+
+- [Lista Kafelków](index.md)

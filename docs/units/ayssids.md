@@ -1,0 +1,43 @@
+# Ayssids
+
+=== "Garstka"
+
+    <figure markdown="span">
+        ![Few Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
+    </figure>
+
+=== "Grupa"
+
+    <figure markdown="span">
+        ![Pack of Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutralne"
+
+    <figure markdown="span">
+        ![Neutral Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
+| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| :attack: | 3 | 3 | 3 |
+| :defense: | 1 | 1 | 1 |
+| :health_points: | 5 | **6** | 5 |
+| :initiative: | 9 | **11** | 9 |
+| Cost | 6 :gold: | 10 :gold: | 9 :gold: |
+| Abilities | - | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliation: (if applicable), the Ayssids can attack another adjacent unit. | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliation: (if applicable), the Ayssids can attack another adjacent unit. |
+
+
+## Pochodzi z
+
+- [Rozszerzenie Przystań](../content/cove_expansion.md)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

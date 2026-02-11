@@ -1,0 +1,52 @@
+# Ciele
+
+<p style="text-align: center;" markdown>![Ciele](../assets/player-deck-back.webp){ width=340 align=right }</p>
+___
+<p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
+___
+<p style="text-align: center;" markdown>[Conflux](../towns/conflux.md)</p>
+___
+
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;3</p>
+___
+<p style="text-align: center;" markdown>[Water Magic](../abilities/water_magic.md)</p>
+___
+
+## Specialty
+
+=== "Magic Arrow Ⅰ"
+
+    <figure markdown="span">
+        ![Magic Arrow Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
+=== "Magic Arrow Ⅳ"
+
+    <figure markdown="span">
+        ![Magic Arrow Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
+=== "Magic Arrow Ⅵ"
+
+    <figure markdown="span">
+        ![Magic Arrow Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
+
+| Level | Description |
+| :---: | :---: |
+| Ⅰ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :power: |
+| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it. This spell does not count toward your Spell limit per Combat round.<br><br>— OR —<br><br>:instant: +1 :power: |
+| Ⅵ | :instant: The selected [unit](../units/index.md) suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :power: |
+
+
+## Pochodzi z
+
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+
+
+## Zobacz też
+
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
+
