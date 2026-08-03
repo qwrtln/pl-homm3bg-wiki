@@ -1,0 +1,43 @@
+# Żywiołaki Energii
+
+=== "Garstka"
+
+    <figure markdown="span">
+        ![Few Energy Elementals](../assets/units-conflux-silver-energy_elementals-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Grupa"
+
+    <figure markdown="span">
+        ![Pack of Energy Elementals](../assets/units-conflux-silver-energy_elementals-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutralne"
+
+    <figure markdown="span">
+        ![Neutral Energy Elementals](../assets/units-neutral-silver-energy_elementals.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver_tier: | :silver_tier: | :silver_tier: |
+| Type | [:ground_unit:](index.md#ground-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
+| :attack: | 3 | **4** | 3 |
+| :defense: | 1 | 1 | 1 |
+| :health_points: | 5 | 5 | 4 |
+| :initiative: | 5 | **8** | 5 |
+| Cost | 6 :gold: | 8 :gold: | 11 :gold: |
+| Abilities | - | :activation: Add +1 :power: to the first [Fire Magic spell](../spells/index.md#school-of-fire-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |
+
+
+## Pochodzi z
+
+- [Conflux Expansion](../content/conflux_expansion.md)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

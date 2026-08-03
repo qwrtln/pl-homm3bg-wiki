@@ -1,0 +1,28 @@
+# Naga Bank (Creature Bank)
+
+<figure markdown="span">
+
+![Naga Bank Creature Bank](../assets/locations-naga_bank.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)<br>[Creature Bank (Ⅳ-Ⅴ)](../fields/creature_bank.md)</p>
+___
+
+| Units | Reward | Extra |
+| :--- | :--- | :--- |
+| 4x&nbsp;[Nagas](../units/nagas.md#naga-bank) | 6 :gold: and 2 :valuables:. | 6 :gold: and 1 :valuables: for every Stacked unit. |
+
+___
+
+
+## Pochodzi z
+
+- [Naval Battles Expansion](../content/naval_battles_expansion.md)
+
+
+## Zobacz też
+
+- [Lista Pól](index.md)
+- [Lista Kafelków](../tiles/index.md)
